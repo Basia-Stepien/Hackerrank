@@ -1,5 +1,5 @@
 //https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true
-package Java;
+package Java.task01_10;
 import java.util.*;
 
 public class task02_Java_Stdin_and_Stdout_I {

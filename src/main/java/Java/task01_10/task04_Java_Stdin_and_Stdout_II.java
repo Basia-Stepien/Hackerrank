@@ -1,5 +1,5 @@
 //https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true
-package Java;
+package Java.task01_10;
 
 import java.util.*;
 

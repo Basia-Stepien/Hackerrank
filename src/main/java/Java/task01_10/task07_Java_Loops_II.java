@@ -1,5 +1,5 @@
 //https://www.hackerrank.com/challenges/java-loops/problem
-package Java;
+package Java.task01_10;
 import java.util.Scanner;
 import static java.lang.Math.pow;
 

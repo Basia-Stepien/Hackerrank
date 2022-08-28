@@ -1,5 +1,5 @@
 // https://www.hackerrank.com/challenges/java-loops/problem
-package Java;
+package Java.task01_10;
 import java.io.*;
 
 public class task06_Java_Loops_I {
